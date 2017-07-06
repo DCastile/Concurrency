@@ -1,0 +1,9 @@
+.idea
+
+venv
+
+__pycache__
+
+settings.json
+
+.DS_Store
